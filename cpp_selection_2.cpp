@@ -1,4 +1,4 @@
-// 2. Write a code that will input for a number then identify whether the number is positive or negative.
+// 2. Write a C++ code that will input for a number then identify whether the number is positive or negative.
 
 #include <iostream>
 using namespace std;

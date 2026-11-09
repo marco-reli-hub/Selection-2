@@ -1,5 +1,4 @@
-      *    2. Write a code that will input for a number then
-      *       identify whether the number is positive or negative.
+      *    2. Write a COBOL code that will input for a number then identify whether the number is positive or negative.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. POSITIVE-NEGATIVE-PROGRAM.
